@@ -3,7 +3,7 @@
 //  TinderSwipes
 //
 //  Created by  謝皓昀 on 2024/8/10.
-//
+// 模仿 swipe card動畫 用的也是 DragGesture()
 
 import SwiftUI
 
